@@ -1,0 +1,12 @@
+{
+    "name": "pzproger/hexlet-php",
+    "description": "composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "pzproger",
+            "email": "pzproger@gmail.com"
+        }
+    ],
+    "require": {}
+}
