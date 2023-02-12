@@ -1,5 +1,10 @@
 {
     "name": "pzproger/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "description": "composer",
     "type": "project",
     "authors": [
